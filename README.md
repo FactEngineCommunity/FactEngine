@@ -1,11 +1,11 @@
 # Fact Engine
 
-Fact Engine is a 
-     - Graph Database;
-     - Relational Database;
-     - Hierarchical Database;
-     - Knowledge Graph Database;
-     - Multi-Model Database;
+Fact Engine is a <br />
+     - Graph Database; <br />
+     - Relational Database; <br />
+     - Hierarchical Database; <br />
+     - Knowledge Graph Database; <br />
+     - Multi-Model Database; <br />
 
 Fact Engine combines a powerful ontology/semantic modeling language, Object-Role Modeling, with underlying database technology to achieve a Knowledge Graph Database over which expressive queries can be performed to glean information from the knowledge graph.
 
