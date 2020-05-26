@@ -1,19 +1,23 @@
-# Fact Engine
+# FactEngine
 
-Fact Engine is a <br />
+FactEngine is a <br />
+     - Knowledge Graph; <br />
      - Graph Database; <br />
      - Relational Database; <br />
      - Hierarchical Database; <br />
-     - Knowledge Graph Database; <br />
      - Multi-Model Database; <br />
 
-Fact Engine combines a powerful ontology/semantic modeling language, Object-Role Modeling, with underlying database technology to achieve a Knowledge Graph Database over which expressive queries can be performed to glean information from the knowledge graph.
+FactEngine is a knowledge graph for knowledge engineering and querying.
 
-The thesis is simple, with a metamodel of Object-Role Modeling, a relational database can be viewed and queried as a graph, hierarchical database...and, of course, with SQL.
+FactEngine combines a powerful ontology/semantic modeling language, Object-Role Modeling, with underlying database technology to achieve a Knowledge Graph over which expressive queries can be performed to glean information from the knowledge graph.
 
-Fact Engine turns a SQLite database into a graph database, knowledge graph database while preserving all the virtues of a relational database.
+## Knowledge Engineering with Object-Role Modeling
 
-The technology is transposable accross any relational database. We use SQLite because it is the most widely used database in the world and because it allows you to have a knowledge graph, graph database and relational database on your desktop and embedded into your application.
+The thesis is simple, with a metamodel of Object-Role Modeling, a database can be viewed and queried as a graph, hierarchical or relational database.
+
+Use our powerful Knowledge Query Language (KQL) to query over the knowledge graph or even use SQL, the choice is yours.
+
+The technology is transposable accross any relational or key/value database. We use SQLite in this iteration because it is the most widely used database in the world and because it allows you to have a knowledge graph, graph database and relational database on your desktop and embedded into your application.
 
 ## Project Status
 
