@@ -1,5 +1,7 @@
 # FactEngine
 
+![FactEngine-5-Venn2](https://user-images.githubusercontent.com/10895608/83111640-47861000-a108-11ea-950c-46b27df4d3d3.jpg)
+
 FactEngine is a <br />
      - Knowledge Graph; <br />
      - Graph Database; <br />
