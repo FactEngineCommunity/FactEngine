@@ -20,5 +20,6 @@ The technology is transposable accross any relational or key/value database. We 
 - The Boston Object-Role Modeling softwware used to create the Object-Role Model over your database/s is complete, we just need to extend the software to generate and maintain the associated SQLite database for the appropriate Models in Boston.  
 - SQLite is the most widely used database in the world. It is ready to go. FactEngine operates over the top of one or more SQLite databases.
 
+Copyright (C) 2020 - Victor Morgante
 
 
