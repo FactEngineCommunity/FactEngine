@@ -1,4 +1,4 @@
-# ![connectivity64](https://user-images.githubusercontent.com/10895608/83115423-af8b2500-a10d-11ea-9bfc-7af9e43ff3d9.png) FactEngine
+# ![connectivity32](https://user-images.githubusercontent.com/10895608/83115619-fda02880-a10d-11ea-88ba-a9186eb8d517.png) FactEngine
 
 ![FactEngine-5-Venn2](https://user-images.githubusercontent.com/10895608/83111640-47861000-a108-11ea-950c-46b27df4d3d3.jpg)
 
